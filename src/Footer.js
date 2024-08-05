@@ -1,5 +1,5 @@
 import React from "react";
-import "./weather.css"
+import "./weather.css";
 
 export default function Footer() {
   return (
@@ -11,13 +11,13 @@ export default function Footer() {
         </a>{" "}
         and is{" "}
         <a
-          href="https://github.com/mashudutshifura/My-weather-app"
+          href="https://github.com/mashudutshifura/weather-app-react"
           target="_blank"
         >
           on GitHub
         </a>{" "}
         and{" "}
-        <a href="https://calm-gumption-d170de.netlify.app/" target="_blank">
+        <a href="https://timely-panda-adda0f.netlify.app/?" target="_blank">
           hosted on Netlify
         </a>
         .
