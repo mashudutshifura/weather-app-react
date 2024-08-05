@@ -3,10 +3,10 @@ import "./Weather.css";
 
 export default function Weather() {
   let weatherData = {
-    city: "Paris",
-    temperature: 15,
-    date: "Monday 10:00",
-    description: "Cloudy",
+    city: "Pretoria",
+    temperature: 32,
+    date: "Monday 12:00",
+    description: "Sunny",
     imgUrl: "https://ssl.gstatic.com/onebox/weather/64/sunny.png",
     humidity: 80,
     wind: 10,
