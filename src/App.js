@@ -1,9 +1,8 @@
 import React from "react";
-import "./styles.css"
-import "./weather.css"
+import "./styles.css";
+import "./weather.css";
 import Weather from "./Weather";
 import Footer from "./Footer";
-
 
 export default function App() {
   return (
